@@ -28,7 +28,7 @@ requests
 scipy==1.11.3
 six==1.16.0
 tensorboard==2.18.0
-tensorflow-cpu==2.14.0
+tensorflow-cpu==2.18.0
 termcolor==2.3.0
 urllib3
 Werkzeug==3.0.0
